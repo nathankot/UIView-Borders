@@ -6,9 +6,9 @@
 //  Copyright © 2015 aaron. All rights reserved.
 //
 
-#ifndef UIViewBorders_h
-#define UIViewBorders_h
+#ifndef UIView_Borders_h
+#define UIView_Borders_h
 
 #import "UIView+Borders.h"
 
-#endif /* UIViewBorders_h */
+#endif /* UIView_Borders_h */

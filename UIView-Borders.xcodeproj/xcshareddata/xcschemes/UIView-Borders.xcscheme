@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D8A9A84D1BB257C3009229E2"
-               BuildableName = "UIViewBorders.framework"
-               BlueprintName = "UIViewBorders"
+               BuildableName = "UIView_Borders.framework"
+               BlueprintName = "UIView_Borders"
                ReferencedContainer = "container:UIView-Borders.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,8 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D8A9A84D1BB257C3009229E2"
-            BuildableName = "UIViewBorders.framework"
-            BlueprintName = "UIViewBorders"
+            BuildableName = "UIView_Borders.framework"
+            BlueprintName = "UIView_Borders"
             ReferencedContainer = "container:UIView-Borders.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,8 +64,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D8A9A84D1BB257C3009229E2"
-            BuildableName = "UIViewBorders.framework"
-            BlueprintName = "UIViewBorders"
+            BuildableName = "UIView_Borders.framework"
+            BlueprintName = "UIView_Borders"
             ReferencedContainer = "container:UIView-Borders.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

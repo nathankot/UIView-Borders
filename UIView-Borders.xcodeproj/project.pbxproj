@@ -9,15 +9,15 @@
 /* Begin PBXBuildFile section */
 		D8A9A85B1BB257F6009229E2 /* UIView+Borders.h in Headers */ = {isa = PBXBuildFile; fileRef = D8A9A8591BB257F6009229E2 /* UIView+Borders.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D8A9A85C1BB257F6009229E2 /* UIView+Borders.m in Sources */ = {isa = PBXBuildFile; fileRef = D8A9A85A1BB257F6009229E2 /* UIView+Borders.m */; settings = {ASSET_TAGS = (); }; };
-		D8A9A8601BB258C4009229E2 /* UIViewBorders.h in Headers */ = {isa = PBXBuildFile; fileRef = D8A9A85F1BB258C4009229E2 /* UIViewBorders.h */; settings = {ASSET_TAGS = (); }; };
+		D8A9A8601BB258C4009229E2 /* UIView_Borders.h in Headers */ = {isa = PBXBuildFile; fileRef = D8A9A85F1BB258C4009229E2 /* UIView_Borders.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D8A9A84E1BB257C3009229E2 /* UIViewBorders.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = UIViewBorders.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8A9A84E1BB257C3009229E2 /* UIView_Borders.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = UIView_Borders.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8A9A8591BB257F6009229E2 /* UIView+Borders.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Borders.h"; sourceTree = SOURCE_ROOT; };
 		D8A9A85A1BB257F6009229E2 /* UIView+Borders.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Borders.m"; sourceTree = SOURCE_ROOT; };
 		D8A9A85D1BB2583D009229E2 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = SOURCE_ROOT; };
-		D8A9A85F1BB258C4009229E2 /* UIViewBorders.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewBorders.h; sourceTree = SOURCE_ROOT; };
+		D8A9A85F1BB258C4009229E2 /* UIView_Borders.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIView_Borders.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +42,7 @@
 		D8A9A84F1BB257C3009229E2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D8A9A84E1BB257C3009229E2 /* UIViewBorders.framework */,
+				D8A9A84E1BB257C3009229E2 /* UIView_Borders.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 				D8A9A85D1BB2583D009229E2 /* Info.plist */,
 				D8A9A8591BB257F6009229E2 /* UIView+Borders.h */,
 				D8A9A85A1BB257F6009229E2 /* UIView+Borders.m */,
-				D8A9A85F1BB258C4009229E2 /* UIViewBorders.h */,
+				D8A9A85F1BB258C4009229E2 /* UIView_Borders.h */,
 			);
 			path = "UIView-Borders";
 			sourceTree = "<group>";
@@ -66,16 +66,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8A9A85B1BB257F6009229E2 /* UIView+Borders.h in Headers */,
-				D8A9A8601BB258C4009229E2 /* UIViewBorders.h in Headers */,
+				D8A9A8601BB258C4009229E2 /* UIView_Borders.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		D8A9A84D1BB257C3009229E2 /* UIViewBorders */ = {
+		D8A9A84D1BB257C3009229E2 /* UIView_Borders */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D8A9A8561BB257C3009229E2 /* Build configuration list for PBXNativeTarget "UIViewBorders" */;
+			buildConfigurationList = D8A9A8561BB257C3009229E2 /* Build configuration list for PBXNativeTarget "UIView_Borders" */;
 			buildPhases = (
 				D8A9A8491BB257C3009229E2 /* Sources */,
 				D8A9A84A1BB257C3009229E2 /* Frameworks */,
@@ -86,9 +86,9 @@
 			);
 			dependencies = (
 			);
-			name = UIViewBorders;
+			name = UIView_Borders;
 			productName = "UIView-Borders";
-			productReference = D8A9A84E1BB257C3009229E2 /* UIViewBorders.framework */;
+			productReference = D8A9A84E1BB257C3009229E2 /* UIView_Borders.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -117,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D8A9A84D1BB257C3009229E2 /* UIViewBorders */,
+				D8A9A84D1BB257C3009229E2 /* UIView_Borders */,
 			);
 		};
 /* End PBXProject section */
@@ -276,7 +276,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D8A9A8561BB257C3009229E2 /* Build configuration list for PBXNativeTarget "UIViewBorders" */ = {
+		D8A9A8561BB257C3009229E2 /* Build configuration list for PBXNativeTarget "UIView_Borders" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D8A9A8571BB257C3009229E2 /* Debug */,
