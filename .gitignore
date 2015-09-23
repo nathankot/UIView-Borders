@@ -41,4 +41,5 @@ CVS
 *(Autosaved).rtfd/
 Backup[ ]of[ ]*.pages/
 Backup[ ]of[ ]*.key/
-Backup[ ]of[ ]*.numbers/
+Backup[ ]of[ ]*.numbers/*.xcscmblueprint
+Carthage

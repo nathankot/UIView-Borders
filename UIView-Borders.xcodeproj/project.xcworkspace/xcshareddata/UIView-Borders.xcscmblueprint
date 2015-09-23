@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8D3E362B44F6F66CD90CD3C3B0B5619E549604E8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8D3E362B44F6F66CD90CD3C3B0B5619E549604E8" : 0,
+    "5A83FE49F577426762D35D9B66517824AFD84BCC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9E7435F9-D53E-4790-B661-29EEF06748E8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8D3E362B44F6F66CD90CD3C3B0B5619E549604E8" : "UIView-Borders\/",
+    "5A83FE49F577426762D35D9B66517824AFD84BCC" : "..\/..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UIView-Borders",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UIView-Borders.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:nathankot\/rumuki.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5A83FE49F577426762D35D9B66517824AFD84BCC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aaronn\/UIView-Borders.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D3E362B44F6F66CD90CD3C3B0B5619E549604E8"
+    }
+  ]
+}
